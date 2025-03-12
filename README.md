@@ -25,13 +25,13 @@ Features:
 ## Checklist
 
 ### LEARNING:
-- [] Decide whether to use Python | C | Go
-- [] Learn how to use GPIO Library
-- [] Stop being lazy and plug in some LEDS
-- [] Look at sample projects using the LED Board
+- [ ] Decide whether to use Python | C | Go
+- [ ] Learn how to use GPIO Library
+- [ ] Stop being lazy and plug in some LEDS
+- [ ] Look at sample projects using the LED Board
 
 ### TODO:
-- [] Pick Language
-- [] Pick GPIO Library
-- [] confirm pins are working
+- [ ] Pick Language
+- [ ] Pick GPIO Library
+- [ ] confirm pins are working
 
