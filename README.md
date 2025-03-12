@@ -1,13 +1,11 @@
 # Pi Based Project
 
 ## Description
----
 The goal of this project is to start understanding how to use the raspberry pi.
 
 With zero knowledge I want to create a LED Matrix that I can program using a raspberry pi Zero W. 
 
 ## Deliverable
----
 Create LED Matrix that can be programmed via Raspberry Pi Zero W.
 
 Features: 
@@ -25,7 +23,6 @@ Features:
             - Provides ability to edit data
             - Customizable shell for LED client
 ## Checklist
----
 
 ### LEARNING:
 - [] Decide whether to use Python | C | Go
